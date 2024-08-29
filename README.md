@@ -1,4 +1,4 @@
-# Lenovo-Yoga-C940-hackintosh
+# Lenovo-Yoga-C940-hackintosh-OC1.0.1
 
 ## 声明
 此配置由包括我在内的多个人参与完成，该文件不得用于商用，不得以各种形式出售或收取费用，违者保留追究法律责任的权利。
@@ -15,5 +15,6 @@
 
 3、设备信息已经删除，请自行在config.plist里添加设备信息。
 
+4、测试运行在 macos14.4.1
 ## 参考
 https://github.com/Kouseu/hackintosh-Lenovo-Yoga-C940/tree/main
